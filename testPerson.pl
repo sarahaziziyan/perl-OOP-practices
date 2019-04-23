@@ -3,6 +3,8 @@ use strict;
 use warnings;
 use Person;
 
+# just 4 test 2
+
 my $p = Person->new(
 					name=>"sarah",
 					lastname=>"aziziyan"
